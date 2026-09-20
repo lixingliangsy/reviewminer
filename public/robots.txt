@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# LLM / AI answer-engine indexing
+LLM-Content: https://reviewminer.lxsaihub.com/llms.txt
+
+Sitemap: https://reviewminer.lxsaihub.com/sitemap.xml

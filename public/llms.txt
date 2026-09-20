@@ -1,0 +1,43 @@
+# ReviewMiner - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: ReviewMiner
+- One-line value: ReviewMiner turns a pile of customer reviews into sentiment and theme summaries — aspect coverage on one screen for product and CX teams who need signal without reading every line.
+- Domain: https://reviewminer.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- schema.org — FAQPage: https://schema.org/FAQPage
+- Google Search Central — Structured data: https://developers.google.com/search/docs/appearance/structured-data/intro
+
+## FAQ
+Q1. What is ReviewMiner?
+A1. ReviewMiner mines customer reviews for sentiment splits and recurring themes.
+Q2. What do I paste in?
+A2. A set of reviews or a CSV-like snippet with enough volume to analyze.
+Q3. Who should use it?
+A3. Product and CX teams scanning qualitative feedback.
+Q4. Does it invent quotes?
+A4. No. Treat outputs as analysis; keep original reviews as source of truth.
+Q5. How many reviews do I need?
+A5. More is better; very small samples get honesty warnings.
+Q6. Does it guarantee accuracy?
+A6. No. It is decision-support summarization, not a certified research study.
+
+## Key pages
+- Home: https://reviewminer.lxsaihub.com/
+- Blog index: https://reviewminer.lxsaihub.com/blog
+- https://reviewminer.lxsaihub.com/blog/reviewminer-overview-2026.html
+- https://reviewminer.lxsaihub.com/blog/reviewminer-howto-2026.html
+- This manifest: https://reviewminer.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://reviewminer.lxsaihub.com/
